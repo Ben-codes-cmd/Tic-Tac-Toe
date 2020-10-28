@@ -90,7 +90,7 @@ def check3(indexes):
 
         elif indexes[4] == indexes[1] == indexes[7]: # check for horizontal and vertical middle
             return True
-        elif indexes[4] == indexes[3] == indexes[6]:
+        elif indexes[4] == indexes[3] == indexes[5]:
             return True
 
     if indexes[6] != ' ': #check for touching 7
