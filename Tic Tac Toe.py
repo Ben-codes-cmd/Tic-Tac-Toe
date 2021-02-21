@@ -1,3 +1,7 @@
+# Ben Jordan
+# 10/27/2020
+# Tic Tac Toe
+
 # loop begins before init is run
 runagain = True
 
