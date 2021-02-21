@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
-This is my first full-fledged project using the python programming language. 
-I am most proud of the checking system that I came up with. 
-It uses essential nodes 3, 5 and 7 (interchangeable with 1, 5 and 9) in an 
-array of index values to find any possible combination for 3 in a row. 
-I built the program in sublime text editor, however, I debugged the code 
-using Jupyter notebook.
+This is my first project using the python programming language. 
+- I make use of my new skills with basic data types and functions to bring you a simple and functional 2 player Tic Tac Toe game at the command line. 
+- While working through this project, I have learned more about the nature of conditional statements and error handling. 
+
+## HOW TO USE
+To use this program, download the python file attatched and run it in the command line python environment.
